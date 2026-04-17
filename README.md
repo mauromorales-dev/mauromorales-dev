@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Mauro Morales
 
-<!--
-**mauromorales-dev/mauromorales-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 BI & Data Analyst
 
-Here are some ideas to get you started:
+📊 Passionate about turning data into meaningful insights for decision-making.
+💻 Working with data analysis, visualization, and processing tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+* 📈 Focused on Data Analytics & Business Intelligence
+* 🛠️ Experience with SQL, Python, Power BI, Alteryx, and ETL processes
+* 🚀 Building real-world projects to strengthen data skills
+* 📚 Constantly learning and sharing knowledge
+
+---
+
+## ⚙️ Technologies & Tools
+
+* 🗄️ SQL Server / T-SQL
+* 🐍 Python (Pandas, NumPy)
+* 📊 Power BI (Dashboards & Data Modeling)
+* 🔄 ETL & Data Pipelines
+* 🧩 Alteryx
+
+---
+
+## 📂 Featured Projects
+
+🔹 *Coming soon…*
+(Add your SQL, Power BI, or Python projects here)
+
+---
+
+## 📈 Goal
+
+To become a strong data professional by building solutions that create real business impact.
+
+
+
+⭐ *Thanks for visiting my profile*
+
