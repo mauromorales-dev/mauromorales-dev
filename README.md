@@ -26,13 +26,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-🔹 *Coming soon…*
-(Add your SQL, Power BI, or Python projects here)
-
----
-
 ## 📈 Goal
 
 To become a strong data professional by building solutions that create real business impact.
